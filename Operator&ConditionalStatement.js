@@ -22,5 +22,5 @@
 //  console.log("a===b",'5="5"',a===b,"Check Type as well","Stricter version");
 //logical operator in js
 let a=6;
-let b=5;
+let b=9;
 console.log("!(6<5)=",!(a===6)); //false
